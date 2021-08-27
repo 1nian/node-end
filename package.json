@@ -1,0 +1,25 @@
+{
+  "name": "end",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/1nian/node-end.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "koa": "^2.13.1",
+    "koa-bodyparser": "^3.2.0",
+    "koa-router": "^10.0.0",
+    "mysql": "^2.18.1"
+  },
+  "bugs": {
+    "url": "https://github.com/1nian/node-end/issues"
+  },
+  "homepage": "https://github.com/1nian/node-end#readme"
+}
